@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="bagusok">bagusok</string>
+    <string name="rizqi_bagus_andrean">Rizqi Bagus Andrean</string>
+    <string name="shopee_co_ltd">Shopee Co. Ltd</string>
+    <string name="jakarta_indonesia">Jakarta, Indonesia</string>
+    <string name="reposotory">Reposotory</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="see_on_github">See On GitHub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_fav">btn fav</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
